@@ -1,2 +1,2 @@
-@REM #!/bin/bash
+#!/bin/bash
 dir
